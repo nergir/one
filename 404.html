@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <title>Page not found</title>
   <noscript>You need to enable JavaScript to run this app.</noscript>
   <script type="text/javascript">
     // Redirect all requests to index.html, so Angular can handle routing
-    var path = window.location.pathname;
-    window.location = '/index.html?redirect=' + path;
+    const { pathname, hash } = window.location;
+    window.location = '/index.html?redirect=' + encodeURIComponent((hash ? '/#' : '') + pathname);
   </script>
 </head>
+
 <body>
 </body>
+
 </html>
