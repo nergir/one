@@ -9,6 +9,7 @@
     // Redirect all requests to index.html, so Angular can handle routing
     const { pathname, hash } = window.location;
     //window.location = '/index.html?redirect=' + encodeURIComponent((hash ? '/#' : '') + pathname);
+	if (!pathname.startswith('/chat'))
     window.location = '/index.html?redirect=' + encodeURIComponent(pathname);
   </script>
 </head>
