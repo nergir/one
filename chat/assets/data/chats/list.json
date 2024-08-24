@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "picture": "assets/images/avatars/2.jpg",
+    "name": "Angular 2 Exchange group",
+    "messages": [
+      {
+        "message": "This is the Angular 2 exchange group",
+        "when": 1478513323,
+        "who": "me",
+        "id": 1
+      },
+      {
+        "message": "What open source projects does Angular 2 recommend?",
+        "when": 1478513323,
+        "who": "partner",
+        "id": 2
+      }
+    ],
+    "lastMessageTime": 1,
+    "lastMessage": "Technology Exchange"
+  },
+  {
+    "id": 2,
+    "picture": "assets/images/avatars/5.jpg",
+    "name": "React exchange group",
+    "messages": [
+      {
+        "message": "This is the React exchange group",
+        "when": 1478513323,
+        "who": "me",
+        "id": 3
+      },
+      {
+        "message": "What open source projects does React have to recommend?",
+        "when": 1478513323,
+        "who": "partner",
+        "id": 4
+      }
+    ],
+    "lastMessageTime": 1,
+    "lastMessage": "Technology Exchange"
+  },
+  {
+    "id": 3,
+    "picture": "assets/images/avatars/5.jpg",
+    "name": "Vue exchange group",
+    "messages": [
+      {
+        "message": "This is the Vue exchange group",
+        "when": 1478513323,
+        "who": "me",
+        "id": 5
+      },
+      {
+        "message": "What open source projects does Vue have?",
+        "when": 1478513323,
+        "who": "partner",
+        "id": 6
+      }
+    ],
+    "lastMessageTime": 1,
+    "lastMessage": "Technology Exchange"
+  },
+  {
+    "id": 4,
+    "picture": "assets/images/avatars/6.jpg",
+    "name": "Technology Salon",
+    "messages": [
+      {
+        "message": "Like the first one",
+        "when": 1478513323,
+        "who": "partner",
+        "id": 7
+      },
+      {
+        "message": "The poorest time is here, friends who send me 5 yuan, those who like me will send me 5.20, those who love me will send me 13.14 yuan, those who think they are good people will send me 52.52 yuan, and those who love me the most will send me 99.99 yuan. , Forget it if you don't want to talk to me.",
+        "when": 1478513323,
+        "who": "me",
+        "id": 8
+      },
+      {
+        "message": "Hacked?",
+        "when": 1478513323,
+        "who": "partner",
+        "id": 9
+      },
+      {
+        "message": "No, an old classmate red envelope?",
+        "when": 1478513323,
+        "who": "me",
+        "id": 10
+      },
+      {
+        "message": "Sorry, the user is not in the service area",
+        "when": 1478513323,
+        "who": "partner",
+        "id": 11
+      }
+    ],
+    "lastMessageTime": 1,
+    "lastMessage": "welcome"
+  },
+  {
+    "id": 5,
+    "picture": "assets/images/avatars/8.jpg",
+    "name": "Red envelope exchange group",
+    "messages": [
+      {
+        "message": "No money after Double Eleven, have mercy on me! 2 yuan is also love!",
+        "when": 1478513323,
+        "who": "me",
+        "id": 12
+      },
+      {
+        "message": "What do you mean?",
+        "when": 1478513323,
+        "who": "partner",
+        "id": 13
+      },
+      {
+        "message": "Give a red envelope! Anyway, I have mercy on me, a poor man~",
+        "when": 1478513323,
+        "who": "me",
+        "id": 14
+      },
+      {
+        "message": "roll! You are richer than labor and capital! How poor is crying!",
+        "when": 1478513323,
+        "who": "partner",
+        "id": 15
+      },
+      {
+        "message": "Oh, right! My company has small loans now. Would you like to get some?",
+        "when": 1478513323,
+        "who": "partner",
+        "id": 16
+      }
+    ],
+    "lastMessageTime": 1,
+    "lastMessage": "Red envelopes"
+  },
+  {
+    "id": 6,
+    "picture": "assets/images/avatars/7.jpg",
+    "name": "Happy paradise",
+    "messages": [
+      {
+        "message": "Present or not",
+        "when": 1478513323,
+        "who": "me",
+        "id": 17
+      },
+      {
+        "message": "exist",
+        "when": 1478513323,
+        "who": "partner",
+        "id": 18
+      },
+      {
+        "message": "Does Alipay have any change? Buy me something and give you cash later",
+        "when": 1478513323,
+        "who": "me",
+        "id": 19
+      },
+      {
+        "message": "How much do you want",
+        "when": 1478513323,
+        "who": "partner",
+        "id": 20
+      },
+      {
+        "message": "Not a lot, 128 is enough",
+        "when": 1478513323,
+        "who": "me",
+        "id": 21
+      },
+      {
+        "message": "Only over thirty left",
+        "when": 1478513323,
+        "who": "partner",
+        "id": 22
+      },
+      {
+        "message": "Then buy me a 28 item",
+        "when": 1478513323,
+        "who": "me",
+        "id": 23
+      },
+      {
+        "message": "I got it wrong, there are only more than three yuan left",
+        "when": 1478513323,
+        "who": "partner",
+        "id": 24
+      }
+    ],
+    "lastMessageTime": 1,
+    "lastMessage": "I got it wrong, there are only more than three yuan left"
+  }
+]
