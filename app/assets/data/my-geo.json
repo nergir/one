@@ -1,0 +1,7 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[21.181716, 55.686416]},"properties":{"state":"NGsolution","name":"Vietinis","population":1}},
+  {"type":"Feature","geometry":{"type":"Point","coordinates":[21.181916, 55.686466]},"properties":{"state":"Satelitas","name":"Lokalus","population":11}}
+]
+}
