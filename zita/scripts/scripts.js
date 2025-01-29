@@ -44,7 +44,15 @@ function rotateBannerCarousel(){
 }
 
 $('document').ready(function(){	
+	var hostname = window.location.hostname;
+    var isGitHub = hostname.includes("one.ngsolution.eu");
+    var repoName = "zita";
 
+    if (isGitHub) {
+      const base = document.createElement("base");
+      base.href = '/'+repoName+'/';
+      document.head.appendChild(base);
+    }
 	calculate(); 
 	
     startBannerCarousel();	
